@@ -4,18 +4,18 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=Serum Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
-device.name5=
-supported.versions=
+device.name1=miatoll
+device.name2=curtana
+device.name3=excalibur
+device.name4=joyeuse
+device.name5=gram
+supported.versions=11.0-12.0
 supported.patchlevels=
 '; } # end properties
 
